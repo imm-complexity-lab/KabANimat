@@ -1,2 +1,2 @@
 # KabANimat
-Animal dispersal modelling
+Animals dispersal modelling
